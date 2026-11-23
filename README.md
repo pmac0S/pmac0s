@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Pedro Miguel!
+#  Olá, eu sou Pedro Miguel!
 
 ### 🎓 Estudante de Ciência da Computação
 
@@ -14,13 +14,13 @@ Aprendendo Python, desenvolvendo projetos e construindo minha jornada na tecnolo
 
 ---
 
-## 🧑‍💻 Sobre mim
+##  Sobre mim
 
-- 🎓 Estudante de Ciência da Computação.
-- 🐍 Estudando lógica de programação e Python.
-- 🔧 Aprendendo Git e GitHub para versionamento de código.
-- 🚀 Desenvolvendo exercícios e projetos acadêmicos.
-- 🎯 Evoluindo continuamente na área de tecnologia.
+-  Estudante de Ciência da Computação.
+-  Estudando lógica de programação e Python.
+-  Aprendendo Git e GitHub para versionamento de código.
+-  Desenvolvendo exercícios e projetos acadêmicos.
+-  Evoluindo continuamente na área de tecnologia.
 
 ---
 
@@ -33,8 +33,3 @@ Aprendendo Python, desenvolvendo projetos e construindo minha jornada na tecnolo
 </div>
 
 ---
-
-## 📚 Meus projetos
-
-- 🐍 **[Aulas Python](https://github.com/pmacostaoficial-code/aulas-python)** — exercícios e códigos desenvolvidos durante as aulas.
-- 💻 **[Projetos da segunda unidade](https://github.com/pmacostaoficial-code/2-unidade-)** — atividades acadêmicas.
