@@ -1,8 +1,8 @@
 <div align="center">
 
-#  Olá, eu sou Pedro Miguel!
+#  Pedro Miguel!
 
-### 🎓 Estudante de Ciência da Computação
+###  Estudante de Ciência da Computação
 
 Aprendendo Python, desenvolvendo projetos e construindo minha jornada na tecnologia.
 
