@@ -20,7 +20,7 @@ Aprendendo Python, desenvolvendo projetos e construindo minha jornada na tecnolo
 -  Estudando lógica de programação e Python.
 -  Aprendendo Git e GitHub para versionamento de código.
 -  Desenvolvendo exercícios e projetos acadêmicos.
--  Evoluindo continuamente na área de tecnologia.
+
 
 ---
 
